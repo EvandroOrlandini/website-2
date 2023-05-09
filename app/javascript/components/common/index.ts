@@ -1,7 +1,6 @@
 export { CopyToClipboardButton } from './CopyToClipboardButton'
 export { GraphicalIcon } from './GraphicalIcon'
 export { Icon } from './Icon'
-export { ExerciseIcon } from './ExerciseIcon'
 export { Loading } from './Loading'
 export { TrackIcon } from './TrackIcon'
 export { Pagination } from './Pagination'
